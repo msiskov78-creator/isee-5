@@ -28,7 +28,7 @@ def build_auth_layout(title, subtitle):
     left.addWidget(label("Личное пространство для жестов,\nдействий и профилей управления.", "muted"))
     left.addWidget(GestureIllustration())
     left.addStretch()
-    left.addWidget(label("GESTURE CONTROL   /   ВЕРСИЯ .0", "badge"))
+    left.addWidget(label("GESTURE CONTROL   /   ВЕРСИЯ 2.0.1", "badge"))
     left.addSpacing(8)
     left.addWidget(label("Всё начинается с вашего жеста.", "muted"))
     row.addWidget(brand)
