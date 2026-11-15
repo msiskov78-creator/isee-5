@@ -1,4 +1,4 @@
-"""Быстрая настройка действий с явным выбором профиля."""
+﻿"""Быстрая настройка действий с явным выбором профиля."""
 from PySide6.QtCore import QSignalBlocker, Signal
 from PySide6.QtWidgets import QComboBox, QHBoxLayout, QPushButton, QVBoxLayout, QWidget
 from ui.action_settings_dialog import ActionSettingsDialog

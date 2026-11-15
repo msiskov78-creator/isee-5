@@ -1,4 +1,4 @@
-"""Профили управления и отдельные назначения жестов внутри каждого профиля."""
+﻿"""Профили управления и отдельные назначения жестов внутри каждого профиля."""
 from PySide6.QtCore import Signal
 from PySide6.QtWidgets import QComboBox, QHBoxLayout, QInputDialog, QLineEdit, QPushButton, QVBoxLayout, QWidget, QMessageBox
 from ui.action_settings_dialog import ActionSettingsDialog
