@@ -1,0 +1,23 @@
+# Локальная конфигурация и секреты
+.env
+.env.*
+!.env.example
+config.json
+*.pem
+*.key
+# Окружения и кэш
+.venv/
+venv/
+gitignor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Результаты сборок и проверок
+build/
+dist/
+artifacts/
+logs/
+*.log
+# Локальные настройки редактора
+.vscode/
+.idea/
